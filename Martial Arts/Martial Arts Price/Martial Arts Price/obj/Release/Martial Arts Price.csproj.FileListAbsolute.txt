@@ -1,0 +1,46 @@
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\ApplicationInsights.config
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\Martial Arts Price.dll.config
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\Martial Arts Price.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\Martial Arts Price.pdb
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\Antlr3.Runtime.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\EntityFramework.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\EntityFramework.SqlServer.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\Microsoft.AI.Web.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\Newtonsoft.Json.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\System.Web.Helpers.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\System.Web.Mvc.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\System.Web.Optimization.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\System.Web.Razor.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\System.Web.WebPages.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\WebGrease.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\EntityFramework.xml
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\EntityFramework.SqlServer.xml
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\System.Web.Helpers.xml
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\System.Web.Mvc.xml
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\System.Web.Optimization.xml
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\System.Web.Razor.xml
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\System.Web.WebPages.xml
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\Antlr3.Runtime.pdb
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\Newtonsoft.Json.xml
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\bin\Microsoft.AI.Web.xml
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\obj\Release\Martial Arts Price.csprojResolveAssemblyReference.cache
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\obj\Release\Martial Arts Price.csproj.CoreCompileInputs.cache
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\obj\Release\Martial Arts Price.dll
+C:\Users\Nasir\Desktop\Martial Arts Price\Martial Arts\Martial Arts Price\Martial Arts Price\obj\Release\Martial Arts Price.pdb
